@@ -10,8 +10,6 @@ macOS 桌面宠物 —— 维什戴尔（Wishadel）。
 
 ![超新星皮肤](images/preview-supernova.png)
 
-![坐在长椅上](images/preview-bench.png)
-
 ## 下载安装
 
 1. 打开本仓库的 **Releases** 页面
